@@ -6,3 +6,6 @@ print((20-3)**4) #83521
 print(bin(6)) #0b110
 print(int('0b110', 2)) #6
 
+print (0b110) #6
+print(0x12c) #300
+

@@ -15,6 +15,7 @@ dict #dictionary
 None #None
 
 #____________________practice data type_______________________
+
 print(2+4) #6
 print (type(2+4))
 print(2-4) #-2
@@ -36,5 +37,5 @@ print(2%4) #2
 print(round(4.1)) #4
 print(abs(-10)) #10
 
-
+#end
 
