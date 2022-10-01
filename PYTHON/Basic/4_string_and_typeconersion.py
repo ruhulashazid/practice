@@ -78,6 +78,8 @@ greet = 'ruhul amin'
 
 print(len(greet))#10
 print(greet[0:len(greet)])
+print(greet[0:10])
+
 
 
 
