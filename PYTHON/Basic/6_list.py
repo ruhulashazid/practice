@@ -16,8 +16,7 @@ amazing_cart = ['notebooks',
                 'toys',
                 'grapes'
                 ]
-print (amazing_cart[0:2])
-
+print (amazing_cart[0:2]) #it will print ['notebooks','sunglasses']
 #next example
 amazon_cart = ['notebooks',
                 'sunglasses',
@@ -30,5 +29,3 @@ new_cart = amazon_cart[:]
 new_cart[0] = 'gum'
 print (new_cart)
 print (amazon_cart)
-
-
