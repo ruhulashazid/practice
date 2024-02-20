@@ -1,4 +1,4 @@
-qout = 'to be not to be '
+qout = 'to be not to be'
 
 print (qout.upper())
 print(qout.capitalize())
